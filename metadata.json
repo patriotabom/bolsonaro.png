@@ -1,21 +1,32 @@
 {
   "name": "BOLSONARO",
   "symbol": "MITO",
-  "description": "Uma criptomoeda inspirada no projeto de governo de Jair Bolsonaro.",
-  "image": "https://github.com/patriotabom/bolsonaro.png/blob/main/bolsobom.png?raw=true", // URL da sua logo
-  "attributes": [ A criptomoeda "Bolsonaro" seria mais que um ativo digital: seria um manifesto tecnológico pela liberdade, um legado de resistência ao estatismo e uma ferramenta prática para emancipação econômica. Seu lançamento não apenas honraria um projeto político, mas inauguraria uma era de inovação feita pelo povo, para o povo — sem intermediários.
+  "description": "é moeda da liberdade.",
+  "image": "https://raw.githubusercontent.com/patriotabom/bolsonaro.png/refs/heads/main/bolsobom.png",
+  "attributes": [A criptomoeda "Bolsonaro" seria mais que um ativo digital: seria um manifesto tecnológico pela liberdade, um legado de resistência ao estatismo e uma ferramenta prática para emancipação econômica. Seu lançamento não apenas honraria um projeto político, mas inauguraria uma era de inovação feita pelo povo, para o povo — sem intermediários.
 
-"O futuro pertence aos que ousam descentralizar o poder."
+"O futuro pertence aos que ousam descentralizar o poder"
     {
-      "trait_type": "Criador",
-      "value": "Um patriota"
+      "trait_type": "Categoria",
+      "value": "Exemplo"
+    },
+    {
+      "trait_type": "Raridade",
+      "value": "Comum"
     }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/patriotabom/bolsonaro.png/blob/main/bolsobom.png?raw=true",
+        "uri": "https://raw.githubusercontent.com/patriotabom/bolsonaro.png/refs/heads/main/bolsobom.png",
         "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EKoTBiwuaUcy6aD9kJsapS9Z5A7ugKB5o58haXTne3zC", // Substituído pelo seu endereço real
+        "share": 100
       }
     ]
   }
