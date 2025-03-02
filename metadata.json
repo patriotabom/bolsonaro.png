@@ -1,25 +1,6 @@
 {
-  "name": "BOLSONARO #1",
-  "symbol": "MITO",
-  "description": "é moeda da liberdade.",
-  "image": "https://raw.githubusercontent.com/patriotabom/bolsonaro.png/refs/heads/main/bolsobom.png",
-  "attributes": [
-    {
-      "trait_type": "Categoria",
-      "value": "Exemplo"
-    },
-    {
-      "trait_type": "Raridade",
-      "value": "Comum"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/patriotabom/bolsonaro.png/refs/heads/main/bolsobom.png", 
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  "name": "Bolsonaro",
+  "symbol": "JAIR",
+  "description": "criada para liberdade a econômica",
+  "image": "https://raw.githubusercontent.com/patriotabom/bolsonaro.png/refs/heads/main/bolsobom.png"
 }
